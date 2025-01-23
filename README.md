@@ -46,7 +46,7 @@
 
 <br>
 
-<h3 align="center">💠 Info 💠</h3>
+<h3 align="center">📝 Info 📝</h3>
 
 <div align="center">
   <img
