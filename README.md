@@ -52,9 +52,3 @@
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Doremig4&show_icons=true&theme=radical"/>&nbsp
-</div>
-<div align="center">
-  <img
-    src="http://mazassumnida.wtf/api/generate_badge?boj=doremig4"/>&nbsp
-</div>
