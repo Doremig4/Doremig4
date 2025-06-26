@@ -24,6 +24,7 @@
 
 <br>
 
+
 <h3 align="center">🛠 사용하고 있어요 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -46,6 +47,14 @@
 <br>
 
 <h3 align="center">📝 정보 📝</h3>
+
+<div align="center">
+  <a href="https://solved.ac/Doremig4">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Doremig4" alt="Doremig4"/>
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img
