@@ -49,8 +49,8 @@
 <h3 align="center">📝 정보 📝</h3>
 
 <div align="center">
-  <a href="https://solved.ac/Doremig4">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Doremig4" alt="Doremig4"/>
+  <a href="https://solved.ac/doremig4">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doremig4" alt="doremig4"/>
   </a>
 </div>
 
